@@ -1,1 +1,0 @@
-import{Q as e,s as t,z as n}from"./chunks/framework.N1O3y5xz.js";const r=JSON.parse(`{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/performance.md","filePath":"guide/performance.md","lastUpdated":null}`);var i={name:`guide/performance.md`};function a(t,r,i,a,o,s){return e(),n(`div`)}var o=t(i,[[`render`,a]]);export{r as __pageData,o as default};
